@@ -1,6 +1,6 @@
 # 16 Best Flutter templates 2020
 
-Hi there! Here you can find the newest and up-to-date collection of flutter applications. In this selection, I have hand-picked the 15 best flutter app templates of 2020, both UI elements for your future application and fully ready for release and production templates. About each application, I wrote a small paragraph with a review of the most interesting features in my opinion, as well as for those who are too lazy to read the descriptions I made a list of the most interesting properties. First I will consider the newest and fresh templates of ready-made services with backend, which are fully ready to launch, then new UI kits and at the end of the selection we will run through the old applications, but do not lose their actuality.
+Hi there! Here you can find the newest and up-to-date collection of flutter applications. In this selection, I have hand-picked the 16 best flutter templates of 2020, both UI elements for your future application and fully ready for release and production templates. About each application, I wrote a small paragraph with a review of the most interesting features in my opinion, as well as for those who are too lazy to read the descriptions I made a list of the most interesting properties. First I will consider the newest and fresh templates of ready-made services with backend, which are fully ready to launch, then new UI kits and at the end of the selection we will run through the old applications, but do not lose their actuality.
 
 ## [1. Multipurpose Flutter Template based on Material Design.](https://code.market/product/flutter-material-design-ui/)
 ![Multipurpose Flutter Template based on Material Design](https://code.market/wp-content/uploads/2019/12/Flutter-Template-Material-Design-590x300-Cover.png)
@@ -170,7 +170,7 @@ A highly specialized template, but it does not lose its relevance. A portal with
 ## [15. News Hour – Flutter News App with Admin Panel.](https://code.market/product/news-hour-flutter-news-app-with-admin-panel/)
 ![Next Hour – Movie Tv Show & Video Subscription Portal Cms Web and Mobile App.](https://code.market/wp-content/uploads/2020/07/news-template-flutter-min.png)
 
-The last item in this best fresh best flutter app templates  2020 selection Flutter News App with Admin Panel. A standard news application with a ready-made backend and admin panel. Simple interface, standard functionality, as a state management system provider. More than 40 screens, a .json demo file is available.
+The last item in this best fresh best flutter templates  2020 selection Flutter News App with Admin Panel. A standard news application with a ready-made backend and admin panel. Simple interface, standard functionality, as a state management system provider. More than 40 screens, a .json demo file is available.
 Here are some of the features:
 
 * Data Statistics
