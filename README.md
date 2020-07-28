@@ -53,3 +53,37 @@ Flutter Food delivery UI kit template, fully developed food delivery application
 * More than 70 screens
 * Ready screen logic
 * Rich UI
+
+## [5. Crypto Wallet UI Kit Template Flutter.](https://code.market/product/crypto-wallet-ui-kit-template-flutter/)
+![Crypto Wallet UI Kit Template Flutter.](https://code.market/wp-content/uploads/2020/07/crypto-wallet-ui-kit-flutter-min.png)
+
+A specific UI kit on the subject of the crypto wallet. Developed UI for cryptographic operations. Finished application logic, dark and light mode, animation. Fitch shortlist:
+
+* Awesome transition and Animation
+* Many crypto templates
+* Smooth waiting data
+* Onboarding Screens
+* Smart logic
+
+## [6. Flutter Hotel and Tour Template Flutter.](https://code.market/product/flutter-hotel-and-tour-template-flutter/)
+![Flutter Hotel and Tour Template Flutter.](https://code.market/wp-content/uploads/2020/07/hotel-travel-flutter-app-template-min.png)
+
+A high-quality travel template. The UI contains the necessary screens for each travel app. Seat card, hotel card, booking, selection of payment method, search, selection of places. There is an entire frontend for the application. A short walk through the main points:
+
+* Clearly Design
+* Payments Screens
+* Place card
+* Hotel Card
+* Google maps support
+
+## [7. Treva Shop - Flutter E-Commerce UI KIT Template.](https://code.market/product/treva-shop-e-commerce-ui-kit-using-flutter/)
+![Treva Shop - Flutter E-Commerce UI KIT Template.](https://code.market/wp-content/uploads/2020/07/flutter-ecommerce-template-ui-kit-trevashoop-min.png)
+
+In one of my previous articles, I was looking at this flutter theme, and I want to pay attention in this article best flutter app templates  2020 again. It has been updated with new functionality. It has improved performance and usability. Added multi-language, chat rooms, and reviews. A large list of frontend components. You only need to implement your backend and e-commerce application can be launched. Shortlist of fitch:
+
+* Multilanguage support
+* Reviews Screens
+* Improved Performance
+* Improved Usability
+* Added Chats with customer
+
