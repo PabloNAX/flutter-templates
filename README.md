@@ -184,4 +184,4 @@ Thank you for reading!
 This article on other sources:
 * [best flutter templates on dev.to](https://dev.to/pablonax/15-best-flutter-app-templates-2020-od9) 
 * [best flutter templates on teletype](https://teletype.in/@double_pablo/XBODaG7cu) 
-* [best flutter templates on medium](https://medium.com/@paulkaloshin/15-best-flutter-app-templates-2020-13fca473f9c9 
+* [best flutter templates on medium](https://medium.com/@paulkaloshin/15-best-flutter-app-templates-2020-13fca473f9c9) 
