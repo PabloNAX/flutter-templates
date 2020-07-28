@@ -87,3 +87,101 @@ In one of my previous articles, I was looking at this flutter theme, and I want 
 * Improved Usability
 * Added Chats with customer
 
+## [8. Flutter Taxi App Driver Ui Kit.](https://code.market/product/flutter-taxi-app-driver-ui-kit/)
+![Flutter Taxi App Driver Ui Kit.](https://code.market/wp-content/uploads/2020/07/taxi-driver-ui-kit-flutter-min.png)
+
+This is a classic UI kit for taxi driver applications.
+Built-in google API direction service and google maps make this template useful and almost ready to use.
+Simple design, usable frontend functions, and much more.
+
+* Google API direction
+* Calculate distance, cost, time of the route
+* Draw the shortest path between 2 points on the map
+
+## [9. FluxStore – Flutter E-commerce Full App.](https://code.market/product/fluxstore-pro-flutter-e-commerce-full-app-for-magento-opencart-and-woocommerce/)
+![FluxStore – Flutter E-commerce Full App.](https://code.market/wp-content/uploads/2020/07/fluxstore-flutter-ecommerce-min.png)
+
+The FluxStore is one of the first flutter templates on the market, but it doesn't make it any less valuable because the authors are working on improving it. Ready e-commerce template with connection to the most popular Cms systems such as OpenCart, WooCommerce, and Shopify. There are all the basic functions necessary for a modern online store. Shortlist of fitch:
+
+* Push notification
+* Support Smart Chat
+* Checkout process
+* Ready ordering process
+* A few category layouts
+
+## [10. MaterialX Flutter – Flutter Material Design UI Components.](https://code.market/product/materialx-flutter-flutter-material-design-ui-components-2-0/)
+![MaterialX Flutter – Flutter Material Design UI Components.](https://code.market/wp-content/uploads/2020/07/materialx-ui-kit-flutter-min.png)
+
+Material Design UI kit template, a collection of screens and components assembled on a flutter by the material design guide. Almost all elements required for basic applications are collapsed. There are popups, sliders, tab bars, and so on. A shortlist of features:
+
+* Pickers (Date, Time, Color)
+* Progress & Activity
+* Sliders
+* Snackbars & Toasts
+* Steppers
+
+## [11. Flutkit – Flutter UI Kit.](https://code.market/product/flutkit-flutter-ui-kit/)
+![Flutkit – Flutter UI Kit.](https://code.market/wp-content/uploads/2020/07/flutkit-flutter-ui-kit.png)
+
+Flutkit is a custom UI kit for those who want a fresh and unused design in their application. In it, you can find various components and elements as well as ready-made screens on shopping, hotel, and music themes. There are also basic onboarding screens and registration. You can also find popups and snack bars. There is a dark mode. So, a shortlist of fitch:
+
+* Dismissible list
+* Expansions
+* Forms
+* Google map
+* Grid
+* Dark mode
+
+## [12. Grocery, Food, Pharmacy, Store Delivery Mobile App with Admin Panel.](https://code.market/product/grocery-food-pharmacy-store-delivery-mobile-app-with-admin-panel/)
+![Grocery, Food, Pharmacy, Store Delivery Mobile App with Admin Panel.](https://code.market/wp-content/uploads/2020/07/grocery-shop-flutter.png)
+
+Application delivery template with an admin panel for a manager. The application can be used for food delivery as well as for medical recommendations, products, and any other goods. All basic functions are integrated, payment by card, localization, order tracking, checkout and push notifications. Here is a shortlist of advantages:
+
+* Admin panel
+* E-Payment, credit card integration.
+* Cash on delivery and payment on pickup methods
+* Support RTL languages
+* Push notification
+* Tracking Orders
+
+## [13. Delivery Boy + Flutter For Multivendor Stores.](https://code.market/product/delivery-boy-flutter-for-multivendor-stores-multi-languages/)
+![ Delivery Boy + Flutter For Multivendor Stores.](https://code.market/wp-content/uploads/2020/07/delivery-boy-flutter-app-min.png)
+
+Multivendor application flutter theme for delivery and ordering food from different restaurants. From the same authors as the previous template, also comes with the admin panel. There is basic functionality for food delivery. Indicator of the availability of the driver and the refusal of the order. The main functions to which you should pay attention:
+
+* Order Accept/Reject functionality
+* Order Pickup from the restaurant functionality
+* Order Delivered with customer’s signature
+* Driver Availability
+* Order list with details
+* Order History
+
+## [14. Next Hour – Movie Tv Show & Video Subscription Portal Cms Web and Mobile App.](https://code.market/product/next-hour-movie-tv-show-video-subscription-portal-cms-web-and-mobile-app/)
+![Next Hour – Movie Tv Show & Video Subscription Portal Cms Web and Mobile App.](https://code.market/wp-content/uploads/2020/07/newx-hour-video-portal-flutter-min.png)
+
+A highly specialized template, but it does not lose its relevance. A portal with the function of subscription to a TV show or video. Template contains both flutter application and web version, it turns out that this is a portal. Channel subscriptions, your own custom player, and even an email newsletter are included in this template. In other words, the extensive web version and flutter are attached as an addition to the web. Here are some interesting fittings:
+
+* Autoplay, Loop & Shuffle
+* Admin Manage Subscription
+* Choose Membership Plan
+* Stripe, Braintree and Pay Stack Payment Gateway
+
+
+## [15. News Hour – Flutter News App with Admin Panel.](https://code.market/product/news-hour-flutter-news-app-with-admin-panel/)
+![Next Hour – Movie Tv Show & Video Subscription Portal Cms Web and Mobile App.](https://code.market/wp-content/uploads/2020/07/news-template-flutter-min.png)
+
+The last item in this best fresh best flutter app templates  2020 selection Flutter News App with Admin Panel. A standard news application with a ready-made backend and admin panel. Simple interface, standard functionality, as a state management system provider. More than 40 screens, a .json demo file is available.
+Here are some of the features:
+
+* Data Statistics
+* Admin can upload, edit & delete contents
+* Demo preview feature for upload & delete contents
+* Admin can make & delete comments
+* State Management: Provider
+
+Thank you for reading!
+
+This article on other sources:
+* [best flutter templates on dev.to](https://dev.to/pablonax/15-best-flutter-app-templates-2020-od9) 
+* [best flutter templates on teletype](https://teletype.in/@double_pablo/XBODaG7cu) 
+* [best flutter templates on medium](https://medium.com/@paulkaloshin/15-best-flutter-app-templates-2020-13fca473f9c9 
