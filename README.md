@@ -14,7 +14,7 @@ Pure UI and handy event manager, with ready backend as firebase. Smooth animatio
 * Check internet connection in app
 
 ## [2. AChat Material Flutter Firebase Messenger](https://code.market/product/achat-flutter-firebase-chat-and-messenger-template/)
-![AChat Material Flutter Firebase Messenger](https://code.market/wp-content/uploads/2020/06/Chat-Dribbble-Copy-2.png)
+![AChat Material Flutter Firebase Messenger](https://code.market/wp-content/uploads/2020/07/achat-messanger-flutter-template-compressor.png)
 
 Fresh, fast, multifunctional messenger designed on defaulted UI elements of material design, with a firebase as backend. The template has more than 30 state screens, registration from firebase, uploading images to firebase storage, and the possibility of full customization. Encryption of messages, sending photos from the camera, deleting messages. As well as full validation of the fields of data entry and registration. Documented code inside, detailed instructions for use. Many small nice fittings that a modern chat messenger should have.
 Made a brief overview of the features, and collected them into a list:
