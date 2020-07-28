@@ -1,4 +1,4 @@
-# Flutter templates download free and premium
+# 16 Best Flutter templates 2020
 
 Hi there! Here you can find the newest and up-to-date collection of flutter applications. In this selection, I have hand-picked the 15 best flutter app templates of 2020, both UI elements for your future application and fully ready for release and production templates. About each application, I wrote a small paragraph with a review of the most interesting features in my opinion, as well as for those who are too lazy to read the descriptions I made a list of the most interesting properties. First I will consider the newest and fresh templates of ready-made services with backend, which are fully ready to launch, then new UI kits and at the end of the selection we will run through the old applications, but do not lose their actuality.
 
