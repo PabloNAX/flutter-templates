@@ -1,4 +1,4 @@
-# 16 Best Flutter templates 2020
+# 16 Best Flutter templates 2021
 
 Hi there! Here you can find the newest and up-to-date collection of flutter applications. In this selection, I have hand-picked the 16 best flutter templates of 2020, both UI elements for your future application and fully ready for release and production templates. About each application, I wrote a small paragraph with a review of the most interesting features in my opinion, as well as for those who are too lazy to read the descriptions I made a list of the most interesting properties. First I will consider the newest and fresh templates of ready-made services with backend, which are fully ready to launch, then new UI kits and at the end of the selection we will run through the old applications, but do not lose their actuality.
 
@@ -9,13 +9,13 @@ Hi there! Here you can find the newest and up-to-date collection of flutter appl
 
 Best UI/UX flutter mobile app template for e-commerce, with animations, business flow, and clean code. It is ready for connecting to any architecture and back end. This Flutter template using Rive animations and pure UI.
 
-Clean code with extracted flutter widgets
-Rive animations
-Used List View builder for all lists
-Ready to back end integrations
-Clearly & Smart UI/UX
-Ready Navigation and Business logic
-Fully Customizable template (colors, fonts, borders, sizes, paddings, margins etc.) from the place.
+* Clean code with extracted flutter widgets
+* Rive animations
+* Used List View builder for all lists
+* Ready to back end integrations
+* Clearly & Smart UI/UX
+* Ready Navigation and Business logic
+* Fully Customizable template (colors, fonts, borders, sizes, paddings, margins etc.) from the place.
 
 ## [2. Multipurpose Flutter Template based on Material Design.](https://code.market/product/flutter-material-design-ui/)
 ![Multipurpose Flutter Template based on Material Design](https://code.market/wp-content/uploads/2019/12/Flutter-Template-Material-Design-590x300-Cover.png)
